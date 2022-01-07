@@ -5,4 +5,4 @@ Lista de Cursos de Python
 ---
 - [ ] Python 3 - Mundo 1 [40 horas].
 - [ ] Python 3 - Mundo 2 [40 horas].
-- [ ] Python 3 - Mundo 1 [40 horas].
+- [ ] Python 3 - Mundo 3 [40 horas].
