@@ -1,4 +1,4 @@
-num = s = cont = 0
+s = cont = 0
 while True: 
     num = int(input('Digite um número: '))
     if num == 999:
