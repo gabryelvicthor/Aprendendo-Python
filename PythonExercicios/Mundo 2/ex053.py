@@ -8,7 +8,7 @@ inverso = ''
 for letras in range(len(junto) -1, -1, -1):
     inverso += junto[letras]
 
-print('O inverso de {} é: {}'.format(frase, inverso))
+print('O inverso de "{}" é: {}'.format(frase, inverso))
 
 if junto == inverso:
     print('Temos um palíndromo!')
