@@ -1,10 +1,6 @@
 
 #count = Faz a contagem do elemento na lista.
 
-from csv import list_dialects
-from posixpath import lexists
-
-
 lista = [1, 2, 43, 2, 1, 1, 3, 4, 1, 2, 1]
 print(lista.count(1))
 
