@@ -1,4 +1,3 @@
-from pickle import APPEND
 
 #append = Adiciona ao final de um lista um dado qualquer.
 #index = indica a posição de um elemento na lista (.index(3))
